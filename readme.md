@@ -1,7 +1,7 @@
 # word clock
 
 Este es el codigo para un word clock, 
-Modifiqué el stencil para mostrar un mensaje tipo "you are awesome" al stencil. tiene leds de otro color  por debajo.
+Modifiqué el stencil para mostrar un mensaje tipo "you are awesome" entre las letras. la idea es que sea imperceptible hasta que se ilumine. el set de letras tiene leds de otro color por debajo.
 
 
 ## mi  objetivo
