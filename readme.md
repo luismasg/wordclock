@@ -13,12 +13,12 @@ lo que no se es crear la logica para que se ilumine predeciblemente cada cierto 
 No seria malo tambien qeu se ilumine en su cumpleaños , aniversario etc.
 
 
-<detail>
+<details>
 
 <img src="picture.jpg">
 
 <summary>
 como se ve construido
 </summary>
-</detail>
+</details>
 
